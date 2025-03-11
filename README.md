@@ -1,6 +1,6 @@
 # Light Mode Dark Mode & Custom Cursor Portfolio Website !
 
-## 🔗 [Demo](https://rafikulislamrafi.github.io/NAV-Canvas/)
+## 🔗 [Demo](https://rafikulislamrafi.github.io/LightMode-DarkMode--CustomCursor/)
 
 # Hi, I'm Rafikul! 👋
 
